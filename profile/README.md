@@ -1,7 +1,5 @@
 # 321Team
 
-> 작성 기준: 프로젝트 최종 인수를 완료한 시점의 소개를 가정합니다.
-
 **321Team**은 하이브리드 클라우드 컨테이너 플랫폼 설계 및 구현 9기 과정의 프로젝트 팀입니다. 온프레미스와 AWS를 연결해 **이상금융거래 탐지 시스템(FDS)의 교육용 PoC**를 완성했습니다.
 
 ## FDS 서비스
@@ -40,13 +38,13 @@ Trivy에서 HIGH 또는 CRITICAL 취약점을 검출하거나 검사 자체가 �
 
 | 구성원 | 담당 영역 |
 | --- | --- |
-| 이하영 [@hayeounglee](https://github.com/hayeounglee) | Kubernetes와 ROSA 플랫폼 구성, 실행 권한과 네트워크 및 접근 통제, 기준 문서 검토 |
-| 이재환 [@supreme33-kr](https://github.com/supreme33-kr) | 거래 API와 탐지 엔진, 데이터베이스 연동, 모니터링, 기능과 품질 검증 |
-| 이권욱 [@GWONUK](https://github.com/GWONUK) | Phase 2 전체 아키텍처 설계 Lead, 인프라 자동화와 CI/CD 및 배포 프로그램 구현, PMO와 기준 문서 운영 |
+| 이하영 | Kubernetes와 ROSA 플랫폼 구성, 실행 권한과 네트워크 및 접근 통제, 기준 문서 검토 |
+| 이재환 | 거래 API와 탐지 엔진, 데이터베이스 연동, 모니터링, 기능과 품질 검증 |
+| 이권욱 | Phase 2 전체 아키텍처 설계 Lead, 인프라 자동화와 CI/CD 및 배포 프로그램 구현, PMO와 기준 문서 운영 |
 
 ## 공개 자료
 
 - [프로젝트 아키텍처와 서비스 소개](https://321team.github.io/fds-project-architecture/)
 - [공개 아키텍처 저장소](https://github.com/321Team/fds-project-architecture)
 
-공개 자료는 팀 프로젝트의 구성과 설계 의도를 설명합니다. 내부 주소와 접근 정보, 비밀정보와 상세 실행 로그는 공개하지 않습니다. 문의는 각 구성원의 GitHub 프로필을 이용해 주세요.
+공개 자료는 팀 프로젝트의 구성과 설계 의도를 설명합니다. 내부 주소와 접근 정보, 비밀정보와 상세 실행 로그는 공개하지 않습니다.
